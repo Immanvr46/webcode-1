@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+
+  }
+  
+  #bookList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+  
+  div {
+    
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #ccc;
+
+  }
+  
